@@ -1,0 +1,38 @@
+1a0b	EC	2.7.13.3	accepted_name=Histidine kinase
+1a0b	EC	2.7.13.3	synonyms=EnvZ
+Histidine protein kinase
+Protein histidine kinase
+Protein kinase (histidine)
+HK1
+HP165
+Sln1p
+Protein kinase
+
+1a0b	EC	2.7.13.3	identifier=Histidine kinase
+1a0b	EC	2.7.13.3	reaction=ATP + protein L-histidine = ADP + protein N-phospho-L-histidine
+1a0b	EC	2.7.13.3	systematic_name=ATP:protein-L-histidine N-phosphotransferase
+1a0b	UniProt	P0AEC3	identifier=ARCB_ECOLI
+1a0b	UniProt	P0AEC3	name=ARCB_ECOLI
+1a0b	GO	GO:0000160	identifier=phosphorelay signal transduction system
+1a0b	GO	GO:0000160	name=phosphorelay signal transduction system
+1a0b	GO	GO:0000160	definition=A conserved series of molecular signals found in prokaryotes and eukaryotes; involves autophosphorylation of a histidine kinase and the transfer of the phosphate group to an aspartate that then acts as a phospho-donor to response regulator proteins.
+1a0b	GO	GO:0000160	category=Biological_process
+1a0b	GO	GO:0004871	identifier=signal transducer activity
+1a0b	GO	GO:0004871	name=signal transducer activity
+1a0b	GO	GO:0004871	definition=Conveys a signal across a cell to trigger a change in cell function or state. A signal is a physical entity or change in state that is used to transfer information in order to trigger a response.
+1a0b	GO	GO:0004871	category=Molecular_function
+1a0b	Pfam	PF01627	identifier=Hpt domain
+1a0b	Pfam	PF01627	description=Hpt domain
+1a0b	CATH	1.20.120.160	architecture=Up-down Bundle
+1a0b	CATH	1.20.120.160	name=Aerobic respiration control sensor protein arcb. Chain: a. Fragment: c-terminal hpt domain. Engineered: yes
+1a0b	CATH	1.20.120.160	identifier=Four Helix Bundle (Hemerythrin (Met), subunit A)
+1a0b	CATH	1.20.120.160	homology=Four Helix Bundle (Hemerythrin (Met), subunit A)
+1a0b	CATH	1.20.120.160	class=Mainly Alpha
+1a0b	CATH	1.20.120.160	topology=Four Helix Bundle (Hemerythrin (Met), subunit A)
+1a0b	InterPro	IPR008207	identifier=Signal transduction histidine kinase, phosphotransfer (Hpt) domain
+1a0b	InterPro	IPR008207	name=Signal transduction histidine kinase, phosphotransfer (Hpt) domain
+
+metadata	restapi_version=1.1
+metadata	url=http://www.ebi.ac.uk/pdbe/api/mappings/1a0b?pretty=false&metadata=true
+metadata	date=20151123
+
